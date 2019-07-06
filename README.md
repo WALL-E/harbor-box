@@ -22,4 +22,4 @@ cd harbor-box
 
 ## 使用
 
-项目中使用了域名**harbor.docker-plus.xyz**，需要在host中把这个域名绑定到安装harbor的主机IP上，然后使用浏览器打开即可
+项目中使用了域名`harbor.docker-plus.xyz`，需要在host中把这个域名绑定到安装harbor的主机IP上，然后使用浏览器打开`https://harbor.docker-plus.xyz`即可
