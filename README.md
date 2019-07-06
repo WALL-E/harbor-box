@@ -1,6 +1,6 @@
 # harbor-box
 
-harbor开箱即用,内置真实的SSL证书
+harbor开箱即用,内置真实的SSL证书，docker client可以直接登录，不需要特殊设置证书的相关配置。
 
 ## 前提
 
